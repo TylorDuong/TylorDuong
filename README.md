@@ -1,10 +1,50 @@
 - 👋 Hi, I’m @undTurt
 - 👀 I’m interested in game development.
-- 🌱 I’m currently in high school learning javascript, and self teaching C#.
+- 🌱 I’m currently a first year CS student at ASU.
 - 💞️ I’m looking to collaborate on games.
-- 📫 How to reach me: my discord is Turt#7746.
+- 📫 How to reach me: my discord is underscoreturt.
 
-<!---
-undTurt/undTurt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Project Portfolio
+
+## Current Project: AR Fitness Coach (EPICS @ ASU)
+A web-based fitness application that uses computer vision to provide real-time form correction and guidance.
+
+### Key Features
+- Real-time form correction using webcam
+- Personalized workout tracking
+- AI-powered movement analysis
+- Responsive web interface
+
+### Tech Stack
+#### Frontend
+- React.JS with Next.js
+- Tailwind CSS
+- React Webcam
+- HeroIcons
+
+#### Backend
+- Node.JS
+- JWT Authentication
+- Axios
+
+#### AI/Computer Vision
+- Python
+- YOLOv8 for human detection
+- ViTPose++ for pose estimation
+- FastAPI
+
+## Previous Projects
+
+### Sunhacks Hackathon (September 2024): Post Pals - AI Adobe Plugin
+An intelligent design assistant that enhances creative workflows.
+- Advanced image model for design analysis
+- Smart font pairing suggestions
+- Contextual clip art recommendations
+- Theme-based design enhancement
+
+### Devils Invent Honeywell (November 2024): VR Aerospace Training
+Virtual reality training platform for aerospace manufacturing.
+- Interactive 3D part models
+- Real-time accuracy assessment
+- Defect detection simulation
+- Immersive learning environment
