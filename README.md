@@ -35,6 +35,9 @@ A web-based fitness application that uses computer vision to provide real-time f
 
 ## Previous Projects
 
+### Devhacks x Strategy (May 2025)
+Fit2U is a personalized fashion assistant designed to help users organize their wardrobe, generate outfits, and make sustainable fashion choices. The app leverages AI to provide tailored recommendations based on user preferences, weather, and body type.
+
 ### Sunhacks Hackathon (September 2024): Post Pals - AI Adobe Plugin
 An intelligent design assistant that enhances creative workflows.
 - Advanced image model for design analysis
