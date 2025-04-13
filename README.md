@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @undTurt
 - 👀 I’m interested in game development.
 - 🌱 I’m currently a first year CS student at ASU.
-- 💞️ I’m looking to collaborate on games.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: my discord is underscoreturt.
 
 # Project Portfolio
