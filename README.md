@@ -34,6 +34,10 @@ A web-based fitness application that uses computer vision to provide real-time f
 - FastAPI
 
 ## Previous Projects
+### DevilsInvent Honeywell (April 2025):AssembliSim
+- Unity2D for simulation
+- Reactjs tailwindcss typescript for frontend interface
+- AssembliSim converts 2D factory layout images into a simulation
 
 ### Devhacks x Strategy (March 2025): Fit2U
 - personalized fashion assistant
