@@ -34,7 +34,13 @@ A web-based fitness application that uses computer vision to provide real-time f
 - FastAPI
 
 ## Previous Projects
-### DevilsInvent Honeywell (April 2025):AssembliSim
+### Devhacks September 2025: Oratori
+- Tamogatchi-like game to help you practice speaking out loud
+- Daily practices and check in
+- Unity 2D
+- Evolving customizable companion
+
+### DevilsInvent Honeywell (April 2025): AssembliSim
 - Unity2D for simulation
 - Reactjs tailwindcss typescript for frontend interface
 - AssembliSim converts 2D factory layout images into a simulation
