@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @undTurt
+- 👋 Hi, I’m @TylorDuong
 - 👀 I’m interested in game development.
 - 🌱 I’m currently a first year CS student at ASU.
 - 💞️ I’m looking to collaborate on projects.
