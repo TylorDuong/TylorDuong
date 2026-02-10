@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: my discord is underscoreturt.
 
-# Project Portfolio
+# Project Portfolio >> (tylorduong.github.io)
 
 ## Current Project: AR Fitness Coach (EPICS @ ASU)
 A web-based fitness application that uses computer vision to provide real-time form correction and guidance.
