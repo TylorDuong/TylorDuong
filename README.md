@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: my discord is underscoreturt.
 
-# Please check out my portfolio! >> [Website Portfolio](tylorduong.github.io)
+# Please check out my portfolio! >> [Website Portfolio](https://tylorduong.github.io/)
